@@ -3,6 +3,7 @@
 Working with Codex makes tasks easier and much faster to fix and review.
 The main challenge I faced was related to configuration, which led me to define a Python interpreter.
 It was also interesting to learn about all the steps required for setup in order to properly call an API, as well as how to work with two LLMs to keep the service available.
+In terms of improvements, the prices for the LLMs are currently hardcoded. Reports could be saved in a file for further analysis and comprehensive reporting. There is also a need to handle duplicate/incomplete articles.   
 
 
 All steps and checks were followed. Below a brief description:
